@@ -1,2 +1,25 @@
 
-/* Your CSS Code here. */
+table, th, tr, td{
+	border : 1px solid black;
+}
+.rowone{
+	text-align: center;
+}
+.dataone{
+	width: 250px;
+	height: 200px;
+}
+.bt{
+	background-color: black;
+	color: white;
+}
+.tab1{
+	width: 250px;
+	text-align: center;
+}
+.datatwo{
+	height: 100px;
+}
+.oneit{
+	width:250px;
+}
